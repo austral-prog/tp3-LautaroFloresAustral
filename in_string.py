@@ -21,5 +21,5 @@ def check_vowels():
     print("Contiene u:","u" in name_2.lower())
 
 # Para verificar este ejercicio ejecutar el comando
-# `pytest tp3_in_string_test.py` o `python tp3_in_string_test.py`
+# `pytest tp3_in_string_test.py` o `python tp3_in_string_test.py
 
